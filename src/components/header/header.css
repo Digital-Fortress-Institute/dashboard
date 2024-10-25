@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.headerContainer{
+    width: 100%;
+    background-color: rgb(173, 165, 165);
+    height: 70px;
+    
+}
